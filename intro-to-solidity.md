@@ -17,6 +17,8 @@ Metamask: https://metamask.io/
 
 Rinkeby Faucet: https://rinkebyfaucet.com/
 
+Find Jobs : https://www.cryptonaukri.com/
+
 Blockchain Demo:
 - Hash: https://andersbrownworth.com/blockchain/hash
 - Block: https://andersbrownworth.com/blockchain/block
